@@ -1,0 +1,14 @@
+Check the path location where Python was installed along with its version. 
+C:\Users\admin>py -m pip --version
+
+Upgrade and Install pip 
+C:\Users\admin>py -m pip install --upgrade pip
+
+Install Numpy: 
+C:\Users\admin>py -m pip install numpy
+
+Install Pandas: 
+C:\Users\admin>py -m pip install pandas
+
+Install Matplotlib 
+C:\Users\admin>py -m pip install matplotlib
