@@ -12,3 +12,7 @@ C:\Users\admin>py -m pip install pandas
 
 Install Matplotlib 
 C:\Users\admin>py -m pip install matplotlib
+
+In order to Install Jupyter Notebook on desktop, copy the path of main python folder and path of script folder inside python folder from c-drive program files and paste it on environment variables on desktop.
+Now open command prompt and enter pip install jupyter notebook. 
+Then type python -m notebook on command prompt. 
