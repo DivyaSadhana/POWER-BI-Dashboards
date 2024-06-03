@@ -28,5 +28,6 @@ Then click 'Ok' button.
 C:\Program Files\Python312
 C:\Program Files\Python312\Scriptspython
 
-
+To ensure Python codes gets integrated with Microsoft SQL server, paste below code in command prompt in python root terminal on D-drive.
+python -m pip install Flask-SQLAlchemy
  
