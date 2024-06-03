@@ -4,6 +4,13 @@ C:\Users\admin>py -m pip --version
 Upgrade and Install pip 
 C:\Users\admin>py -m pip install --upgrade pip
 
+Install Jupyter Notebook 
+python -m pip install jupyter
+
+To launch Jupyter notebook using command prompt, navigate to the python folder path on C or Drive and enter cmd. 
+Type as below in terminal and click Enter button.
+python -m notebook 
+
 Install Numpy: 
 C:\Users\admin>py -m pip install numpy
 
@@ -13,6 +20,13 @@ C:\Users\admin>py -m pip install pandas
 Install Matplotlib 
 C:\Users\admin>py -m pip install matplotlib
 
-In order to Install Jupyter Notebook on desktop, copy the path of main python folder and path of script folder inside python folder from c-drive program files and paste it on environment variables on desktop.
-Now open command prompt and enter pip install jupyter notebook. 
-Then type python -m notebook on command prompt. 
+In order to Install Jupyter Notebook, 
+copy the path of main python folder and path of script folder inside python folder on C drive. 
+Go to Environment variables, Select 'Path' of System Variables and Click on 'Edit'. 
+Add new line for each path and paste both it on environment variables.
+Then click 'Ok' button. 
+C:\Program Files\Python312
+C:\Program Files\Python312\Scriptspython
+
+
+ 
